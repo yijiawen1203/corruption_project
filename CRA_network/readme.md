@@ -9,6 +9,9 @@ updated at 20221213: reproduce this network graph with city commissioners, CRA m
 the path of the code:
 **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/2_2 extract planner email and draw updated network_delete label.ipynb**
 
+![City_Commissioner,_CRA_and_Planner_email_neteworkno_label1](https://user-images.githubusercontent.com/58616362/207398174-eed95949-2e02-4bf7-aa1e-3936e6062f55.png)
+
+**reproduce the above figure，only need to rerun part 4 and 5.** 
 
 the path of the code:
 **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/2 extract planner email and draw updated network.ipynb**
