@@ -16,3 +16,4 @@ top organization  network centrality interactive map by month, updated at 06/18/
 https://insights.arcgis.com/#/view/b8a5ce2b5a164505b202051094822774
 
 
+**adj matrix of email and sentiment.ipynb** file show how we get the sentiment among city commissioners
