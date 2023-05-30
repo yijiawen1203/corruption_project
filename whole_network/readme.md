@@ -16,3 +16,11 @@ Next, i need to add reciprocity and random walk betweenness centrality, the note
 **3 号是计算centrality。
 4 号是在计算的基础上画图。**
 
+**3 build adjacency matrix and calculate centrality_edited_yijia20230520.ipynb**: calculate the random walk betweenness centrality: 
+
+
+
+
+
+
+
