@@ -16,4 +16,14 @@ the path of the code:
 the path of the code:
 **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/2 extract planner email and draw updated network.ipynb**
 
+JAPA R&R update 202306
+==
+
+based on the comments of reviewer, i need to add the reciprocity of every individual in the small network, the note book is **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/3 try to separate the email file by month_and draw pic202306.ipynb**
+
+
+
+
+
+
 
