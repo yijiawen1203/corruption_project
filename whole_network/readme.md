@@ -18,6 +18,8 @@ Next, i need to add reciprocity and random walk betweenness centrality, the note
 
 **3 build adjacency matrix and calculate centrality_edited_yijia20230520.ipynb**: calculate the random walk betweenness centrality: 
 
+产生的图片用的是**centrality_density_plot_x_axis2_color** function in notebook 4 centrality & density evaluation over time plot_edited by yijia 20230520
+
 
 
 
