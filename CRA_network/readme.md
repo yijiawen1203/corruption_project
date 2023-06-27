@@ -1,4 +1,4 @@
-this folder includes the code to create the cra and city commissioner network and centrality
+e this folder includes the code to create the cra and city commissioner network and centrality
 
 updated: planners in the city commissioner and cra network: centrality, graph notebook: 2 extract planner email and draw updated network.ipynb
 
@@ -21,6 +21,9 @@ JAPA R&R update 202306
 
 based on the comments of reviewer, i need to add the reciprocity of every individual in the small network, the note book is **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/3 try to separate the email file by month_and draw pic202306.ipynb**
 
+I need to change the above figure into grayscale, so i need to change: make them different shapes, like circles, squares, and triangles. and keep consistency across figures. make them different shades of gray/black/or hollow circles.
+I do it in the following file
+**/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/2_2 extract planner email and draw updated network_delete label.ipynb**
 
 
 
