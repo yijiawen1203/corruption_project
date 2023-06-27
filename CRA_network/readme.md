@@ -25,6 +25,12 @@ I need to change the above figure into grayscale, so i need to change: make them
 I do it in the following file
 **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/2_2 extract planner email and draw updated network_delete label.ipynb**
 
+network graph only between cra and city commissioner 
+==
+
+the folder is /Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/65_update_the graph_of_joey_and_yijia_in_paper_202206/1_yijia_small netework data
+
+the
 
 
 
