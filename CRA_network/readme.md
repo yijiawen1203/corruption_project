@@ -32,6 +32,9 @@ the folder is /Users/yoga/Documents/Projects/4 合作项目 腐败 economic corr
 
 the notebook is: **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/65_update_the graph_of_joey_and_yijia_in_paper_202206/1_yijia_small netework data/1_draw email network for whole period_delete_label.ipynb**
 
+the figure output is as follows:
+
+![CRA_and_city_commissioner_email_netework_no_labelforJAPA20230627](https://github.com/yijiawen1203/corruption_project/assets/58616362/12eef0a6-d119-4829-80f4-cd7d098c9338)
 
 
 
