@@ -25,6 +25,11 @@ I need to change the above figure into grayscale, so i need to change: make them
 I do it in the following file
 **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/2_2 extract planner email and draw updated network_delete label.ipynb**
 
+calculate individual level random walk betweenness centrality:  **3 try to separate the email file by month_and draw pic202306.ipynb**
+
+
+
+
 network graph only between cra and city commissioner 
 ==
 
