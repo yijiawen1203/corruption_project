@@ -9,7 +9,6 @@ updated at 20221213: reproduce this network graph with city commissioners, CRA m
 the path of the code:
 **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/2_2 extract planner email and draw updated network_delete label.ipynb**
 
-![City_Commissioner,_CRA_and_Planner_email_neteworkno_label1](https://user-images.githubusercontent.com/58616362/207398174-eed95949-2e02-4bf7-aa1e-3936e6062f55.png)
 
 **reproduce the above figure，only need to rerun part 4 and 5.** 
 
@@ -24,12 +23,17 @@ based on the comments of reviewer, i need to add the reciprocity of every indivi
 I need to change the above figure into grayscale, so i need to change: make them different shapes, like circles, squares, and triangles. and keep consistency across figures. make them different shades of gray/black/or hollow circles.
 I do it in the following file
 **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/2_2 extract planner email and draw updated network_delete label.ipynb**
+<img width="721" alt="image" src="https://github.com/yijiawen1203/corruption_project/assets/58616362/09b1ff6b-1a00-4743-aad7-d9a34d1d754c">
+
 
 calculate individual level random walk betweenness centrality:  **3 try to separate the email file by month_and draw pic202306.ipynb**
 
 
 
 To draw the figure **only includes planner and city commissioner**, I do it in the **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/2_2 extract planner email and draw updated network_delete label.ipynb**
+
+
+
 
 
 
