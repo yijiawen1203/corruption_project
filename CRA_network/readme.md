@@ -1,4 +1,4 @@
-e this folder includes the code to create the cra and city commissioner network and centrality
+this folder includes the code to create the cra and city commissioner network and centrality
 
 updated: planners in the city commissioner and cra network: centrality, graph notebook: 2 extract planner email and draw updated network.ipynb
 
@@ -28,7 +28,8 @@ I do it in the following file
 calculate individual level random walk betweenness centrality:  **3 try to separate the email file by month_and draw pic202306.ipynb**
 
 
-To draw the figure only includes planner and city commissioner, I do it in the **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/2_2 extract planner email and draw updated network_delete label.ipynb**
+
+To draw the figure **only includes planner and city commissioner**, I do it in the **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/2_2 extract planner email and draw updated network_delete label.ipynb**
 
 
 
