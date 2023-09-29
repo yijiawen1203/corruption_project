@@ -19,3 +19,16 @@ https://insights.arcgis.com/#/view/b8a5ce2b5a164505b202051094822774
 **adj matrix of email and sentiment.ipynb** file show how we get the sentiment among city commissioners
 
 **extract only city commissioner email.ipynb** show how we filter the email among city commissioners based on the city commissioner and cra email file.
+
+
+relating to the second paper
+==
+
+20230928:
+I need to filer all emails involving city commissioners. I do it  in 2_2 extract planner email and draw updated network_delete label.ipynb. the location is '/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207'.
+the specific session is second paper: select all emails involving city commissioner, break down to city commissioner and city commissioner, city commissioner and planner, and city commissioner and others in the notebook.
+
+
+
+
+
