@@ -28,7 +28,8 @@ relating to the second paper
 I need to filer all emails involving city commissioners. I do it  in 2_2 extract planner email and draw updated network_delete label.ipynb. the location is '/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207'.
 the specific session is second paper: select all emails involving city commissioner, break down to city commissioner and city commissioner, city commissioner and planner, and city commissioner and others in the notebook.
 
-
+20231213: 
+I need to reshape the figure including city commissioner and planner. make all the city commissioner on the left and the planner on the right.
 
 
 
