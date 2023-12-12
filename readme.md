@@ -32,6 +32,9 @@ the specific session is second paper: select all emails involving city commissio
 I need to reshape the figure including city commissioner and planner. make all the city commissioner on the left and the planner on the right.
 
 the notebook is **/Users/yoga/Documents/Projects/4 合作项目 腐败 economic corruption/62_planner network202207/2_2 extract planner email and draw updated network_delete label-20231213.ipynb**
-the output is like this ![Uploading City_Commissioner_and_Planner_Email_Neteworkfor_second_paper_no_name_202312.png…]()
+
+the output is like this
+![City_Commissioner_and_Planner_Email_Neteworkfor_second_paper_no_name_202312](https://github.com/yijiawen1203/sementic_analysis/assets/58616362/463b026d-7416-4463-a401-269512fe819c)
+
 
 
